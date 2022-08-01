@@ -1,0 +1,6 @@
+Ideas :
+
+- Connecting Sensors to Controllers to Detect Reverse Cars at Night & Activate Lights
+- Add additional Functions to the Car by Can Bus (Arduino + Raspberry PI4)
+
+

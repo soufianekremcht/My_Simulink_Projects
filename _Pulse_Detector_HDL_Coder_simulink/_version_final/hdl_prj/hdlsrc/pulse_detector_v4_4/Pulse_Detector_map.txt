@@ -1,0 +1,6 @@
+ --> Pulse_Detector_pkg
+pulse_detector_v4_4/Pulse Detector/Compute Power --> Compute_Power
+pulse_detector_v4_4/Pulse Detector/Local Peak/MATLAB Function --> MATLAB_Function
+pulse_detector_v4_4/Pulse Detector/Local Peak --> Local_Peak
+pulse_detector_v4_4/Pulse Detector/HDL Discrete FIR Filter --> HDL_Discrete_FIR_Filter
+pulse_detector_v4_4/Pulse Detector --> Pulse_Detector

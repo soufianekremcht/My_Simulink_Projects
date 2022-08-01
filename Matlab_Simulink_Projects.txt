@@ -1,0 +1,22 @@
+Simulink Projects :
+---------------------------
+
+- Induction Motor Control using PWM,V/F,FOC (Done)
+
+- PMSM Motor Control using FOC (Done) 
+
+- BLDC Motor Control using PWM Model Design et Simulation + PCB (Done)
+
+- Pulse Detector + HDL Code (Done)
+
+- Drone Simulation in Simulink  (Done)
+
+- Study Battery Management System Modeling & Build Basic Simulation (Done)
+
+- Modélisation et Simulation d’une chaine de traction d’un véhicule électrique sous Matlab/Simulink (simscape, simpowersystem, PowerTrain ).
+
+- Simulation d’un tableau de bord et test de Fonction ADAS (LabView, STM32,Raspberry Pi, MQTT)
+
+- HIL + SIL Tests for Automative Modeling in Simulink ou LabView
+
+- pe_asm_drive_sensorless_control (Matlab Test)
