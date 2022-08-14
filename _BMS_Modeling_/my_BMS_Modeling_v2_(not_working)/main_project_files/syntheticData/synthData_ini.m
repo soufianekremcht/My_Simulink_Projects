@@ -65,5 +65,4 @@ end
 if ~exist('numTau')
     numTau = 1;
     prm_dyn = num2str(numTau+1);
-    set_param([gcs '/battery'],'prm_dyn',prm_dyn)
 end
